@@ -1,0 +1,9 @@
+[submodule "job5/job5/shell.exe"]
+	path = job5/job5/shell.exe
+	url = https://github.com/mohamed-habbaaina/shell.exe
+[submodule "job1/job1/shell.exe"]
+	path = job1/job1/shell.exe
+	url = https://github.com/mohamed-habbaaina/shell.exe
+[submodule "job6/job6/shell.exe"]
+	path = job6/job6/shell.exe
+	url = https://github.com/mohamed-habbaaina/shell.exe
